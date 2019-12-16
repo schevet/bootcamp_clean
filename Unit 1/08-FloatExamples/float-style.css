@@ -1,0 +1,20 @@
+.clearfix::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+aside {
+  float: left;
+}
+
+main {
+  float: left;
+}
+
+header {
+  background-color: red;
+  /* height: 100px;
+  padding: 10px;
+  border: 1px solid white; */
+}
